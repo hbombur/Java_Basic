@@ -1,4 +1,6 @@
-public class Main {
+package hello_world;
+
+public class HelloWorld {
     public static void main(String[] args) {
         /* Так как не указано точно каким образом вывести сообщение в консоль,
         мной использован метод printf(). Так же, если необходимо вывести сообщение с переносом каретки
