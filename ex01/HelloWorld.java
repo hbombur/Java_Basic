@@ -1,4 +1,4 @@
-package hello_world;
+package ex01;
 
 public class HelloWorld {
     public static void main(String[] args) {
