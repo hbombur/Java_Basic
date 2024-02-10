@@ -14,6 +14,7 @@ public class Opertors {
         int b = scanner.nextInt();
         System.out.println("Введите третье число: ");
         int c = scanner.nextInt();
+        scanner.close();
         float midDiv = (float) (a + b + c) / 3;
         System.out.println(midDiv);
         int divisiMidDiv = (int) midDiv / 2;
