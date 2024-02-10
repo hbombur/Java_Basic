@@ -2,7 +2,7 @@ package ex07;
 
 import java.util.Scanner;
 
-public class Operators {
+public class Cycle {
     public static void main(String[] args) {
         int x = 6;
         int y = 3;
