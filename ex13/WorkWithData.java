@@ -2,7 +2,7 @@ package ex13;
 
 import java.util.Scanner;
 
-public class WorWithData {
+public class WorkWithData {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите слова, разделенные пробелами");
